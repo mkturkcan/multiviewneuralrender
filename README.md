@@ -1,2 +1,1 @@
-# multiviewneuralrender
-Multi-view neural rendering techniques
+Notes on Multi-view neural rendering techniques
